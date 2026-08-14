@@ -158,7 +158,7 @@ El proyecto demuestra que dos protocolos de enrutamiento disímiles — RIPv2 y 
 | Pedro A. Vázquez |
 | Oscar Viniegra |
 
-**Profesora**: Ing. Guadalupe Pineda Acha
+
 **Curso**: Redes de Telecomunicaciones — FIME UANL
 **Fecha**: 25 de mayo de 2026
 
